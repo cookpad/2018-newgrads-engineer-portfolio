@@ -1,0 +1,58 @@
+name: クック ぱど見
+resume:
+  backgrounds:
+    - name: ◯☓大学大学院 △□研究科 ▼●専攻 N年生
+      lab: XXXX研究室所属
+      thesis_theme: KKKKにおけるAAAAを利用したVVVV効果の検証
+      year: 2018年3月卒業見込み
+    - name: ◯☓大学 △□学部 N年生
+      lab: XXXX研究室所属
+      thesis_theme: ZZZZにおけるYYYYを利用したQQQQ効果の検証
+      year: 2016年3月卒業
+    - name: XYZ高校
+      year: 2012年3月卒業
+social_accounts:
+  github: __padomi__
+engineering:
+  why_start_programming: |
+    高校生の時に友人とゲームのコミュニティーサイトを作ることになり、ユーザ登録などの機能を実装する上で勉強したのがきっかけ。
+  intersting_points: |
+    自分で作ったものが動くのを見るのが楽しい。
+  skill_levels:
+    elements:
+      - title: C言語
+        level: 1
+        years: 1
+        explanation: |
+          授業で習った
+      - title: Java
+        level: 1
+        years: 1
+        explanation: |
+          授業で習った
+      - title: Ruby
+        level: 3
+        years: 2
+        explanation: |
+          趣味で作るプロダクトはすべてRubyで書いています
+    favorite_language: |
+      Rubyが一番経験が長いので得意です
+    pr: |
+      新しいことには積極的に挑戦していて、いまはAWSでインフラ周りの勉強をしています。
+parttime_experiences:
+  - company: Z社
+    detail: |
+      新規サービスのAndroidアプリ化を担当中
+intern_experiences:
+  - company: クックパッド
+    detail: |
+      会員事業部でユーザの行動データの分析
+  - company: R社
+    detail: |
+      新規事業開発部署でAndroidアプリの開発
+what_you_want_to_achieve_in_cookpad: |
+  おばあちゃんの煮物が好きなのでそういうのを世界中の人で共有できるようにしたいです。
+enthusiasm_for_enginearing: |
+  友達と作成したゲームに結構ユーザーが付いたのでユーザーを飽きさせないように日々アップデートを繰り返していたのが忙しかったけど楽しかったです。
+other_appeal_points: |
+  ゲーム好きが高じてゲームの UI/UX の研究も行っていたのでフロント周りも出来ます！

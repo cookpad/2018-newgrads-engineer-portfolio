@@ -1,0 +1,35 @@
+name: 名前
+resume:
+  title: 履歴書
+  backgrounds:
+    name: 学校／大学
+    lab: 研究室
+    thesis_theme: 研究テーマ
+    year: 卒業（見込）年度
+social_accounts:
+  title: ソーシャルアカウント
+  github: GitHub ID
+engineering:
+  title: プログラミングについて
+  why_start_programming: プログラミングを始めたきっかけ
+  intersting_points: 楽しさ、面白さを感じるところ
+  skill_levels:
+    elements:
+      title: 技術レベル
+      element: 技術要素
+      level: スキルレベル
+      years: 経験年数
+      explanation: 補足事項
+    favorite_language: 得意なプログラミング言語
+    pr: 技術についての自己PR
+parttime_experiences:
+  title: アルバイト経験
+  company: 会社名
+  detail: 内容（書ける範囲で書いてください）
+intern_experiences:
+  title: インターン経験
+  company: 会社名
+  detail: 内容（書ける範囲で書いてください）
+what_you_want_to_achieve_in_cookpad: クックパッドで実現したいこと
+enthusiasm_for_enginearing: 学生時代にエンジニアリングに関して熱中して取り組んできたこと
+other_appeal_points: その他アピールポイント

@@ -12,7 +12,7 @@ social_accounts:
 engineering:
   title: プログラミングについて
   why_start_programming: プログラミングを始めたきっかけ
-  intersting_points: 楽しさ、面白さを感じるところ
+  interesting_points: 楽しさ、面白さを感じるところ
   skill_levels:
     elements:
       title: 技術レベル
@@ -26,10 +26,10 @@ parttime_experiences:
   title: アルバイト経験
   company: 会社名
   detail: 内容（書ける範囲で書いてください）
-intern_experiences:
+internship_experiences:
   title: インターン経験
   company: 会社名
   detail: 内容（書ける範囲で書いてください）
 what_you_want_to_achieve_in_cookpad: クックパッドで実現したいこと
-enthusiasm_for_enginearing: 学生時代にエンジニアリングに関して熱中して取り組んできたこと
+enthusiasm_for_engineering: 学生時代にエンジニアリングに関して熱中して取り組んできたこと
 other_appeal_points: その他アピールポイント

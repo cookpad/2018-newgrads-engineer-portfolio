@@ -16,7 +16,7 @@ social_accounts:
 engineering:
   why_start_programming: |
     高校生の時に友人とゲームのコミュニティーサイトを作ることになり、ユーザ登録などの機能を実装する上で勉強したのがきっかけ。
-  intersting_points: |
+  interesting_points: |
     自分で作ったものが動くのを見るのが楽しい。
   skill_levels:
     elements:
@@ -43,7 +43,7 @@ parttime_experiences:
   - company: Z社
     detail: |
       新規サービスのAndroidアプリ化を担当中
-intern_experiences:
+internship_experiences:
   - company: クックパッド
     detail: |
       会員事業部でユーザの行動データの分析
@@ -52,7 +52,7 @@ intern_experiences:
       新規事業開発部署でAndroidアプリの開発
 what_you_want_to_achieve_in_cookpad: |
   おばあちゃんの煮物が好きなのでそういうのを世界中の人で共有できるようにしたいです。
-enthusiasm_for_enginearing: |
+enthusiasm_for_engineering: |
   友達と作成したゲームに結構ユーザーが付いたのでユーザーを飽きさせないように日々アップデートを繰り返していたのが忙しかったけど楽しかったです。
 other_appeal_points: |
   ゲーム好きが高じてゲームの UI/UX の研究も行っていたのでフロント周りも出来ます！

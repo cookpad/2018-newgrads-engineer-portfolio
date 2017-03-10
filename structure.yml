@@ -15,7 +15,6 @@ engineering:
   interesting_points: 楽しさ、面白さを感じるところ
   skill_levels:
     elements:
-      title: 技術レベル
       element: 技術要素
       level: スキルレベル
       years: 経験年数

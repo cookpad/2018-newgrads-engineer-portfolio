@@ -20,17 +20,17 @@ engineering:
     自分で作ったものが動くのを見るのが楽しい。
   skill_levels:
     elements:
-      - title: C言語
+      - element: C言語
         level: 1
         years: 1
         explanation: |
           授業で習った
-      - title: Java
+      - element: Java
         level: 1
         years: 1
         explanation: |
           授業で習った
-      - title: Ruby
+      - element: Ruby
         level: 3
         years: 2
         explanation: |
